@@ -3,4 +3,4 @@
 
 
 Checkout the medium link for further reading.
-(medium)[https://github.com/raoofnaushad/huggingFace-NLP-pieplines]
+[medium](https://github.com/raoofnaushad/huggingFace-NLP-pieplines)
